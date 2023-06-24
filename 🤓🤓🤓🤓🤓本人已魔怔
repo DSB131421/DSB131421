@@ -1,4 +1,4 @@
-longkey = "多耳粑粑"
+longkey = "114514"
 loadstring(game:HttpGet("https://raw.githubusercontent.com/lyyaini/lon/main/longkey/longkey"))()---卡密系统ui(别乱动)
 function  long()
       local OrionLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/shlexware/Orion/main/source"))()
