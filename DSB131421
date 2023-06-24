@@ -16,7 +16,7 @@ local Tab = Window:MakeTab({
   PremiumOnly = false
 })
 
-Tab:AddParagraph("系为家是哈逼")
+Tab:AddParagraph("人机")
 
 Tab:AddParagraph("温馨提示","没有提示")
 
